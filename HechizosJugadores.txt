@@ -1,0 +1,5 @@
+Memekaizar,Meteo
+Memekaizar,Splash
+Memekaizar,Mizty
+kaka,Splash
+kaka,Mizty
